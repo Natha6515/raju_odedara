@@ -1,0 +1,55 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/vernacular_proj.png",
+            "title": "Performance of vernacular structures under seismic loading [Failure Assessment] ",
+            "bodyText": "Keeping in mind the Bhuj earthquake, the abstract is to acquire optimum percentage of containment reinforcement of vernacular structure. The features of this research is It's Economical, Use of Locally available materials, Easy to apply. Represented our institude at National Level Hackathon INNOVATHON-2022 and secured 2nd Rank with a team of 4.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Raju-Odedara/The-Vernacular-Structures"
+                }
+            ],
+            "tags" : [
+                "vernacular",
+                "bhuj earthquake",
+                "affordable structure"
+            ]
+        },
+        {
+            "image" : "images/projects/cafe_proj.png",
+            "title": "The Ecoville Cafe",
+            "bodyText": "It is a business model with integration of Renewable Energy and Recycled Plastic Waste implementing aspects of civil engineering. Represented our institute at National Level in Smart India Hackathin-2022 with a team of 4.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Raju-Odedara/The-Ecoville-Caf-"
+                }
+            ],
+            "tags" : [
+                "cafe",
+                "bussiness model",
+                "entrepreneur",
+                "hackathon"
+              ]
+        },
+        {
+            "image" : "images/projects/insdage_proj.png",
+            "title": "INSDAG: 2022/23 Competition",
+            "bodyText": "Planning, Modelling, Analysis, Design, Detailing And Estimation of Steel intensive archery academy- Jamshedpur, India within stipulated time and guidelines of Indian National Steel Development & Growth, Kolkata. This was the 1st real time project taken by me & my team.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Raju-Odedara/INSDAG-2022-23-CIVIL-AWARDS"
+                }
+            ],
+
+            "tags" : [
+                "computer aided design",
+                "structural analysis",
+                "estimation",
+                "detailing"
+            ]
+        }
+       ]
+}

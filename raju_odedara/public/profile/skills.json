@@ -1,0 +1,81 @@
+{
+    "intro": "I like exploring new Civil engineering platforms & research papers.\nHere are some of the major core skills, tools & platforms and soft skills I have worked with:",
+    "skills": [{
+     
+            "title": "Core Skills",
+            "items" : [
+     
+                {
+                    "icon": "images/skills/STRUCTURAL ANALYSIS.png",
+                    "title": "Structural Analysis"
+                },
+                {
+                    "icon": "images/skills/pln.png",
+                    "title": "Planning"
+                },
+                {
+                    "icon": "images/skills/ENGINEERING dRAWINGS.png",
+                    "title": "Engineering Drawings"
+                },
+                {
+                    "icon": "images/skills/qe.png",
+                    "title": "Quantity Estimation"
+                },
+                {
+                    "icon": "images/skills/em.png",
+                    "title": "Engineering Mechanics"
+                }
+        ]},
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/AUTOCAD Logo.png",
+                    "title": "Autodesk Autocad"
+                },
+                {
+                    "icon": "images/skills/ETABS LOGO.png",
+                    "title": "ETABs"
+                },
+                {
+                    "icon": "images/skills/STAAD LOGO.png",
+                    "title": "STAAD Pro"
+                },
+                {
+                    "icon": "images/skills/SKETCHUP OGO.png",
+                    "title": "Trimble Sketchup Pro"
+                },
+                {
+                    "icon": "images/skills/TEKLA LOGO.png",
+                    "title": "Tekla Structures"
+                }
+            ]
+            
+    },
+    {
+     
+        "title": "Soft Skills",
+        "items" : [
+ 
+            {
+                "icon": "images/skills/COMMUNICATION.png",
+                "title": "Communication"
+            },
+            {
+                "icon": "images/skills/leder.png",
+                "title": "Ledership"
+            },
+            {
+                "icon": "images/skills/PROBLEM SOLVING.png",
+                "title": "Problem Solving Ability"
+            },
+            {
+                "icon": "images/skills/management-skills.jpg",
+                "title": "Management Skill"
+            },
+            {
+                "icon": "images/skills/team.png",
+                "title": "Team Working Ability"
+            }
+    ]}
+]}
