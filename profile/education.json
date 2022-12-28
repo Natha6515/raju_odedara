@@ -1,0 +1,31 @@
+{
+    "education":[
+        {
+            "title": "Jun 2019 - July 2023",
+            "cardTitle": "B.E., Civil Engineering",
+            "cardSubtitle":"L.D. College of Engineering, Ahmedabad",
+            "cardDetailedText": "CGPA - 8.72 (till sem:-6)",
+            "icon" : {
+                "src": "images/logo.png"
+            }
+        },
+        {
+            "title": "Apr 2017 - Jun 2019",
+            "cardTitle": "Higher Education",
+            "cardSubtitle":"Sorath International School, Junagarh",
+            "cardDetailedText": "Marks - 84%"
+        },
+        {
+            "title": "Apr 2015 - Jun 2017",
+            "cardTitle": "Secondary Education",
+            "cardSubtitle":"Sigma Public School, Porbandar",
+            "cardDetailedText": "Marks - 89%"
+        },
+        {
+            "title": "From Beginning - Jun 2015",
+            "cardTitle": "Primary Education",
+            "cardSubtitle":"Sigma Public School, Porbandar",
+            "cardDetailedText": "Grade - A+"
+        }
+    ]
+}

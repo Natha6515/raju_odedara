@@ -1,0 +1,45 @@
+{
+    "logo" : {
+        "source": "images/logo.png",
+        "height" : 45,
+        "width" : 50
+    },
+    "logo2" : {
+        "source": "images/logo.png",
+        "height" : 135,
+        "width" : 150
+    },
+    
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+        {
+            "title": "Experience & Training",
+            "href": "/experience"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/file/d/1bssV7NW2q6bUdJA6037WETOifNefXKN5/view?usp=share_link",
+            "type": "link"
+        }
+    ]
+
+}

@@ -1,0 +1,48 @@
+{
+    "experiences": [
+        {
+            "title": "A Comprehensive course with hands on training on ETABS Platform",
+            "subtitle": "Self-Learning",
+            "workDescription": [
+                "Introduction to advanced structural analysis & design platform ETABS & Comprehensive study of the same. Design of PEB Structures, Design of High rise buildings, Lateral load calculation with regular assessments."
+            ],
+            "dateText": "Dec 2022 – Feb 2023"
+        },
+        {
+            "title": "Proof Checker",
+            "subtitle": "L.D. College of Engineering",
+            "workType": "Part-time",
+            "workDescription": [
+                "Cross checking of design results and reinforcement with provided data under our project mentor."
+            ],
+            "dateText": "Jan 2022 – Dec 2022"
+        },
+        {
+            "title": "Summer Internship 2022",
+            "subtitle": "DCS Pvt. Ltd, Ahmedabad",
+            "workType": "Part-time",
+            "workDescription": [
+                "This was the first training program which falls under academic curriculum of Gujarat Technological University, Ahmedabad. In this part of training, I worked first time on a real time project as an Assistant Design Engineer under guidance of Er. Astik Velani who is M.E.(Structure) post graduate from well-known Pandit Dindayal Petroleum University(Now known as PDEU). I was taught about the detailing of reinforcement from analysis results and modelling of structure in STAAD pro. It was amazing and worthy training. Parallelly, I learned using excel and application of MS Excel for collecting design moments and shear force from STAAD results."
+            ],
+            "dateText": "Jun 2022 – Aug 2022"
+        },
+        {
+            "title": "Ultratech Knowledge Series",
+            "subtitle": "Ultratech Pvt. Ltd. ",
+            "workType": "Academic Training",
+            "workDescription": [
+                "A training program on concrete technology was organized by Ultratech Pvt. Ltd. For students in which technical aspects of cement, concrete was covered in series of 6 sessions, the various aids provided to cracks of concrete was also explained by the lecturer."
+            ],
+            "dateText": "Mar 2022 – Apr 2022"
+        },
+        {
+            "title": "Class Representative",
+            "subtitle": "L.D. College of Engineering ",
+            "workType": "Leadership",
+            "workDescription": [
+                "Helped and Coordinated class events and brought forward the concerns and ideas of students."
+            ],
+            "dateText": "Jun 2020 – Jun 2023"
+        }
+       ]
+}
